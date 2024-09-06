@@ -1,0 +1,57 @@
+.scaner{
+
+    margin-top: 100px;
+
+   
+}
+.scaner h1{
+    color: red;
+}
+.opt_payment{
+    margin-top: 80px;
+    margin-left: 200px;
+    font-size: 25px;
+    background-color: white;
+    width: 1000px;
+  
+   
+}
+.opt_payment h3{
+    font-size: 25px;
+    
+}
+.opt_payment p{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.opt_payment input{
+    
+    margin-bottom: 35px;
+    margin-left: 50px;
+}
+.CreditCard form{
+
+    background-color:azure;
+    margin-left: 100px;
+}
+.CreditCard form button{
+    background-color: white;
+    text-align: center;
+}
+
+.UpiApp form{
+    background-color:azure;
+    margin-left: 100px;
+}
+
+.UpiApp form h3{
+    background-color:white;
+   
+}
+
+.NetBanking select{
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-top: 0;
+}

@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.head{
+    mix-blend-mode:darken;
+}
+h4{
+    justify-content:space-between;
+    align-items: center;
+    flex: auto;
+}
+.container{
+    display: flex;
+    mix-blend-mode:darken;
+}
+.tour{
+    text-align:justify;
+    width: 50%;
+    padding: auto;
+    line-height: 50px;
+    flex:1;
+    border:2px;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    background-color: #fff;
+    margin-bottom: 40px;
+
+}
+.keys{
+    font-size: larger;
+    margin-top: 10px;
+    width: 50%;
+    padding: auto;
+    line-height: 20px;
+    flex:1;
+    border:2px;
+    margin-bottom: 40px;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    background-color: #fff;
+
+}
+h2{
+    text-align: center;
+    
+}
+hr{
+    border: 2px solid #ddd;
+    margin: 20px 0;
+}
+.Tourinfo{
+    margin-bottom: 50px;
+}
